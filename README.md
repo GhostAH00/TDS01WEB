@@ -31,7 +31,7 @@ Olá, aventureiros da web! Aqui é a Ghost, aprendiz das artes mágicas do desen
 - **Rodapé com localização**: Usei um mapa para mostrar meu local no mundo real, conectando meu mundo mágico com o físico.
 
 ---
-<img src="images/tdsweb.png" alt="Imagem mostrando a página inicial do meu portfólio web">
+<img width="303" height="589" alt="image" src="https://github.com/user-attachments/assets/0b6ca468-c3b6-45cc-b1c1-7ff4ce3055ec" />
 
 ---
 ## Próximos passos no caminho da magia
@@ -42,5 +42,6 @@ Olá, aventureiros da web! Aqui é a Ghost, aprendiz das artes mágicas do desen
 ---
 
 Obrigada por passar pelo meu cantinho mágico! Que a magia do código esteja sempre com você ✨🧙‍♀️🪄
+
 
 
